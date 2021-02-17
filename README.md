@@ -2,6 +2,27 @@
 
 ## category
 - Algorithm
+- toolings
+  - typescript
+  - bundler
+    - webpack
+    - vite
+    - parcel
+    - esbuild
+    - rollup
+    - babel
+  - git
+  - ide
+    - vscode
+    - vim
+  - storybook
+  - package management
+    - npm
+    - yam
+    - pnpm
+    - yarn pnp
+  - monorepo
+    - lerna
 - Frontend
   - css
   - js
@@ -14,28 +35,6 @@
   - svelte
   - graphQL
   - electron
-  - 
-  - toolings
-    - typescript
-    - bundler
-      - webpack
-      - vite
-      - parcel
-      - esbuild
-      - rollup
-      - babel
-    - git
-    - ide
-      - vscode
-      - vim
-    - storybook
-    - package management
-      - npm
-      - yam
-      - pnpm
-      - yarn pnp
-    - monorepo
-      - lerna
 - Backend
   - nodejs
   - deno
@@ -51,4 +50,3 @@
   - docker
   - k8s
   - CI/CD
-- 
