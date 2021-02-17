@@ -2,51 +2,51 @@
 
 ## category
 - Algorithm
-- toolings
-  - typescript
-  - bundler
-    - webpack
-    - vite
-    - parcel
-    - esbuild
-    - rollup
-    - babel
-  - git
-  - ide
-    - vscode
-    - vim
-  - storybook
-  - package management
-    - npm
-    - yam
-    - pnpm
-    - yarn pnp
-  - monorepo
-    - lerna
-- Frontend
-  - css
-  - js
-    - ecmascript
-    - better code
-  - react
-  - react native
-  - vue
-  - angular
-  - svelte
-  - graphQL
-  - electron
 - Backend
-  - nodejs
   - deno
-  - golang
+  - golang  
+  - java  
+  - nodejs
   - rust
-  - java
 - Database
-  - SQL
-    - mysql
   - NoSQL
     - redis
+  - SQL
+    - mysql
 - Devops
+  - CICD
   - docker
   - k8s
-  - CI/CD
+- Frontend
+  - angular
+  - css
+  - electron
+  - graphQL  
+  - js
+    - better_code  
+    - ecmascript
+  - react
+  - react_native
+  - svelte
+  - vue  
+- toolings
+  - bundler
+    - babel
+    - esbuild
+    - parcel
+    - rollup
+    - vite
+    - webpack
+  - git
+  - ide
+    - vim
+    - vscode
+  - package management
+    - npm
+    - pnpm
+    - yam
+    - yarn_pnp
+  - storybook    
+  - monorepo
+    - lerna
+  - typescript    
