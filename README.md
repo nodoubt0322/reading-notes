@@ -19,6 +19,7 @@
   - k8s
 - Frontend
   - angular
+  - concept    
   - css
   - electron
   - graphQL  
